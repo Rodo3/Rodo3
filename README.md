@@ -45,5 +45,5 @@ My journey in Robotics and Digital Systems has led me to develop a passion for c
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Rodo3/Microsoft-Windows-Defender-and-Firewall/tree/main">Microsoft Windows Defender and Firewall</a>
 - SOC Automation Project
