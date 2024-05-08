@@ -15,6 +15,9 @@ My journey in Robotics and Digital Systems has led me to develop a passion for c
 - Linux line-command
 - Security frameworks, controls, design principles
 - SIEM Tools
+- Information Security (INFOSEC)
+- Microsoft Windows Defender
+- Windows Firewall
 
 
 ## Tools
