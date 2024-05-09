@@ -41,7 +41,6 @@ My journey in Robotics and Digital Systems has led me to develop a passion for c
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://coursera.org/share/f7b91b0487a5de5cef84deda72ded78a" target="_blank">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" style="background-color: #DB4437; color: #F4B400; border-color: #0F9D58;" />
