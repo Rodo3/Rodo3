@@ -22,14 +22,20 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
 
 ## Programs
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-2ecc71?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-f39c12?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Matlab-0076A8?&style=for-the-badge&logo=Matlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EasyEDA-20B2AA?&style=for-the-badge&logo=EasyEDA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MES%20System-2E8B57?&style=for-the-badge&logo=server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power%20BI&logoColor=black" />
+
 </div>
 
 ## Hardware
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Embedded%20Systems-4169E1?&style=for-the-badge&logo=microchip&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Electronics-FFD700?&style=for-the-badge&logo=resistor&logoColor=black" />
+
 </div>
 
 ## Certifications
@@ -40,5 +46,9 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
 </div>
 
 ## Projects
-- <a href="https://github.com/Rodo3/Microsoft-Windows-Defender-and-Firewall/tree/main">Microsoft Windows Defender and Firewall</a>
-- <a href="https://github.com/Rodo3/Wireshark-Capture-Packets">Wireshark Capture Packets</a>
+- <a href="https://github.com/Rodo3/Microsoft-Windows-Defender-and-Firewall/tree/main">Microsoft Windows Defender and Firewall</a>  
+- <a href="https://github.com/Rodo3/Wireshark-Capture-Packets">Wireshark Capture Packets</a>  
+- <a href="https://github.com/Rodo3/Smart-Greenhouse">Smart Greenhouse</a>  
+- <a href="https://github.com/Rodo3/Intelligent-Agricultural-Driving-System">Intelligent Agricultural Driving System</a>  
+- <a href="https://github.com/Rodo3/Autonomous-Agricultural-Navigation">Autonomous Agricultural Navigation</a>  
+
