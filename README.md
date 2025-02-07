@@ -15,7 +15,7 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Embedded%20C/C++-blue?&style=for-the-badge&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/-C/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=database&logoColor=white" />
     <img src="https://img.shields.io/badge/-Embedded%20Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=white" />
 
 </div>
