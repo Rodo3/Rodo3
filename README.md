@@ -44,8 +44,7 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
 <a href="https://coursera.org/share/f7b91b0487a5de5cef84deda72ded78a" target="_blank">
   <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" style="background-color: #DB4437; color: #F4B400; border-color: #0F9D58;" />
 <a href="https://drive.google.com/file/d/176Ncp7LZNfdIbnJl10Tfub4T1cQs8CDN/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/-TOEFL_iBT_Score_86/120-800080?style=for-the-badge&logo=book&logoColor=white" />
-</a>
+  <img src="https://img.shields.io/badge/-TOEFL_iBT-800080?style=for-the-badge&logo=toefl&logoColor=white" />
 
 </a>
 </div>
