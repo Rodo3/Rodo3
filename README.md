@@ -52,5 +52,5 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
 ## Projects
 - <a href="https://github.com/Rodo3/Smart-Greenhouse">Smart Greenhouse</a>  
 - <a href="https://github.com/Rodo3/Intelligent-Driving-System-for-Agricultural-Vehicles">Intelligent Agricultural Driving System</a>  
-- <a href="https://github.com/Rodo3/Autonomous-Agricultural-Navigation">Autonomous Agricultural Navigation</a>  
+- <a href="https://github.com/Rodo3/Autonomous-Agricultural-Navigation-System">Autonomous Agricultural Navigation System</a>  
 
