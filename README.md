@@ -50,9 +50,7 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
 </div>
 
 ## Projects
-- <a href="https://github.com/Rodo3/Microsoft-Windows-Defender-and-Firewall/tree/main">Microsoft Windows Defender and Firewall</a>  
-- <a href="https://github.com/Rodo3/Wireshark-Capture-Packets">Wireshark Capture Packets</a>  
 - <a href="https://github.com/Rodo3/Smart-Greenhouse">Smart Greenhouse</a>  
-- <a href="https://github.com/Rodo3/Intelligent-Agricultural-Driving-System">Intelligent Agricultural Driving System</a>  
+- <a href="https://github.com/Rodo3/Intelligent-Driving-System-for-Agricultural-Vehicles">Intelligent Agricultural Driving System</a>  
 - <a href="https://github.com/Rodo3/Autonomous-Agricultural-Navigation">Autonomous Agricultural Navigation</a>  
 
