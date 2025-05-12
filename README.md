@@ -54,3 +54,4 @@ My journey in Robotics and Digital Systems has led me to develop a passion embed
 - <a href="https://github.com/Rodo3/Intelligent-Driving-System-for-Agricultural-Vehicles">Intelligent Agricultural Driving System</a>  
 - <a href="https://github.com/Rodo3/Autonomous-Agricultural-Navigation-System">Autonomous Agricultural Navigation System</a>  
 - <a href="https://github.com/Rodo3/Robust-3D-to-2D-Registration-via-Inverse-Perspective-ICP">Robust 3D-to-2D Registration via Inverse Perspective ICP</a>
+- <a href="https://github.com/Rodo3/DC-Motor-PID-Speed-Controller-with-ROS2-micro-ROS">DC-Motor PID Speed Controller with ROS2 micro-ROS</a>
